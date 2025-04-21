@@ -1,11 +1,3 @@
----
-permalink: /
-title: "About me"
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 Hello! I am a Ph.D student at the Department of Computational Biology and Medical Sciences, the University of Tokyo. I study and work with Prof. Martin Frith.
 
 I obtained my PhD in Math at the University of Toronto, where I was advised by Yun William Yu. Previously, I studied Engineering Physics + Mathematics at the University of British Columbia.
