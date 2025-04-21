@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hello! I am a Ph.D student at the [Department of Computational Biology and Medical Sciences, the University of Tokyo](https://www.cbms.k.u-tokyo.ac.jp/en/). I study and work with [Prof. Martin Frith](https://sites.google.com/site/frithbioinfo/) currently.
 
 Previously, I obtained my Master degree in Science at the University of Tokyo and Bachelor degree in Agronomy at Zhejiang University.
