@@ -14,7 +14,7 @@ Previously, I obtained my Master degree in Science at the University of Tokyo an
 
 I am very fortunate to be advised by [Prof. UI-TEI Kumiko](https://ui-tei.rnai.jp/english-index.html) and [Prof. Martin Frith](https://sites.google.com/site/frithbioinfo/).
 
-You can find my CV ([English](../assets/Ni_Shengliang_cv.pdf) and [Chinese](../assets/Ni_Shengliang_cv_Chinese.pdf)) here: And my [publications](https://scholar.google.com/citations?hl=zh-CN&user=oGHnJ3kAAAAJ).
+You can find my CV ([English](../files/Ni_Shengliang_cv.pdf) and [Chinese](../files/Ni_Shengliang_cv_Chinese.pdf)) here, and my [publications](https://scholar.google.com/citations?hl=zh-CN&user=oGHnJ3kAAAAJ).
 
 About my research interests
 ======
